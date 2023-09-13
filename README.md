@@ -549,6 +549,7 @@ A small group of programmers wants to change how we code—before catastrophe st
 * :star: [**Goodreads**](https://www.goodreads.com/) - a home for you books, to manage your collection and discover new books
 * :star: [**LibraryThing**](https://www.librarything.com/) - a home for your books, to manage your library and discover new books. | Recommendations are numerous and usually relevant to me for every book I tried
 * [Whichbook](http://www.openingthebook.com/whichbook/) - a tool for selecting what book to read next
+* [ReadUpNext](https://www.readupnext.com/) - A online book recommendation site to discover your next best read.
 * [What Should I Read Next?](http://www.whatshouldireadnext.com/) - another tool to discover new books based on what you like
 * [AllReaders](http://allreaders.com/booksearch.asp) - book search engine, get details and recommendations about books you like
 * [Readgeek](https://www.readgeek.com/rate_many) - Let Readgeek get to know your book taste to get recommendations
